@@ -1,0 +1,13 @@
+
+LIBRARY MyDll
+
+EXPORTS
+	MyFuncA
+	MyFuncB
+	MyFuncC
+	MyFuncD
+	MyFuncE
+	MyFuncF
+	MyFuncG
+	MyFuncH
+	MyFuncI
