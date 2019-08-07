@@ -21,4 +21,5 @@ namespace MyDll {
 	void __stdcall MyFuncG(int* a);
 	void __stdcall MyFuncH(int** a);
 	void __stdcall MyFuncI(SampleStruct** ppst);
+
 }
